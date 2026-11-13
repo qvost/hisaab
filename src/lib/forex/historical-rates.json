@@ -1,0 +1,9 @@
+{
+  "source": "https://www.nrb.org.np/contents/uploads/2025/07/Annual-Report-2023-24-English.pdf",
+  "table": "Table 1.4: The trend of the Exchange Rate of the Nepalese Rupee",
+  "kind": "fiscal-year-opening-benchmarks-not-daily-settlement-rates",
+  "benchmarks": [
+    { "fiscalYearBS": "2080/81", "from": "2023-07-17", "to": "2024-07-15", "period": "mid-July 2023", "rates": { "USD": { "buy": 131.17, "unit": 1 }, "EUR": { "buy": 147.19, "unit": 1 }, "GBP": { "buy": 171.95, "unit": 1 }, "JPY": { "buy": 9.45, "unit": 10 }, "INR": { "buy": 160, "unit": 100 } } },
+    { "fiscalYearBS": "2081/82", "from": "2024-07-16", "to": "2025-07-16", "period": "mid-July 2024", "rates": { "USD": { "buy": 133.36, "unit": 1 }, "EUR": { "buy": 145.46, "unit": 1 }, "GBP": { "buy": 173.29, "unit": 1 }, "JPY": { "buy": 8.45, "unit": 10 }, "INR": { "buy": 160, "unit": 100 } } }
+  ]
+}

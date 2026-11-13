@@ -1,0 +1,46 @@
+{
+  "name": "hisaab",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "test:calendar": "node tests/calendar.cjs",
+    "test:db": "node tests/db.cjs",
+    "test:db-integration": "node tests/db-integration.cjs",
+    "test:forex": "node tests/forex.cjs",
+    "test:remittances": "node tests/remittances.cjs",
+    "test:invoices": "node tests/invoices.cjs",
+    "test:invoice-pdf": "node tests/invoice-pdf.mjs",
+    "test:reconcile": "node tests/reconcile.cjs",
+    "test:statement-files": "node tests/statement-files.cjs",
+    "test:tax-pack": "node tests/tax-pack.cjs"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.468.0",
+    "cmdk": "^1.1.1",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.3.0",
+    "dexie": "^4.0.11",
+    "dexie-react-hooks": "^1.1.7",
+    "@react-pdf/renderer": "^4.3.1",
+    "papaparse": "^5.5.3",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^3.4.17",
+    "postcss": "^8.5.0",
+    "autoprefixer": "^10.4.20",
+    "fake-indexeddb": "^6.0.0",
+    "@types/papaparse": "^5.3.16"
+  }
+}
