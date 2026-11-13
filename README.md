@@ -2,6 +2,9 @@
 
 Local-first invoicing, foreign remittance tracking, and tax reconciliation software designed for Nepali software engineers, remote contractors, and micro-agencies.
 
+**Live Deployment:** [https://hisaab-np.vercel.app](https://hisaab-np.vercel.app)  
+**Source Code:** [https://github.com/qvost/hisaab](https://github.com/qvost/hisaab)
+
 ---
 
 ## Background & Problem
@@ -168,6 +171,14 @@ npm run start
 ## Statutory Disclaimer
 
 Hisaab is open-source bookkeeping and tax preparation software. It is designed to assist with record-keeping and reconciliation against official Nepal Rastra Bank and Inland Revenue Department rules. It does not constitute formal legal or certified accounting advice. Always verify final annual tax filings with a licensed Chartered Accountant (CA) or tax professional.
+
+---
+
+## Author
+
+**Siddid Pandey** ([@qvost](https://github.com/qvost))
+* LinkedIn: [linkedin.com/in/qvost](https://www.linkedin.com/in/qvost/)
+* Email: [qvostwon@gmail.com](mailto:qvostwon@gmail.com)
 
 ---
 
